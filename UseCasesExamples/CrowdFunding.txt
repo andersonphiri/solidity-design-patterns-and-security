@@ -1,0 +1,10 @@
+The idea of crowd funding is a process of raising funds for a project or venture from the masses. 
+Investors receive tokens that represent a share of the startup they invested. 
+The project sets up a predefined goal and a deadline for reaching it. 
+Once a project misses the goal, the investments are returned, which reduces the risk for investors. 
+This decentralized fundraising model can supplant the fund need for startup, 
+and there is no need for a centralized trusted platform. 
+Investors will only pay the gas fees if the fund returns. 
+Any project contributor gets a token, and they can trade, 
+sell, or keep these tokens. In a certain stage, 
+the token can be used in exchange for real products as the physical reward
